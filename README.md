@@ -2,7 +2,7 @@
 
 김민결 데이터사이언스학부 ki30ms19@gmail.com
 이병규 데이터사이언스학부 lbg0217@hanyang.ac.kr
-김리나 경영학부 
+김리나 경영학부 linakim07@hanyang.ac.kr 
 
 I. 주제
 - 오프닝에 따른 체스 승률 예측
