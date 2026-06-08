@@ -1,3 +1,4 @@
+
 # 오프닝에 따른 체스 승률 예측
 
 - 김민결 데이터사이언스학부 ki30ms19@gmail.com
@@ -19,7 +20,14 @@ III. 분석 및 진행 방법
 IV. 평가 및 분석
 - 탐색적 데이터 분석: '레이팅 차이에 따른 승률 변화'를 산점도와 추세선으로 시각화하여 레이팅이 승패에 미치는 영향을 확인한다. 또한 가장 승률이 높은 오프닝 순위를 막대그래프로 시각화한다.  
 - 성능 평가: 랜덤 포레스트와 MLP 모델의 예측 성능을 정확도와 F1 Score 표로 비교한다. 혼동 행렬를 그려 모델이 무승부를 얼마나 잘 예측하는지 분석한다.  
+<img width="1389" height="490" alt="체스승률예측1" src="https://github.com/user-attachments/assets/c89aa300-dc2c-4ee9-95e6-fbf908a74e8d" />
+<img width="1340" height="490" alt="체스승률예측2" src="https://github.com/user-attachments/assets/1e381660-e52a-447e-8d1b-819baf888c2a" />
 
+[최종 모델 성능 비교 결과 표]
+
+Random Forest-> Accuracy: 0.71, F1-Score: 0.49395
+
+MLP (Deep Learning)-> Accuracy: 0.75, F1-Score: 0.51265
 V. 관련 출처
 - Kaggle 체스 데이터셋 (https://www.kaggle.com/datasets/datasnaek/chess)
 
