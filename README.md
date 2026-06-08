@@ -22,12 +22,16 @@ IV. 평가 및 분석
 - 성능 평가: 랜덤 포레스트와 MLP 모델의 예측 성능을 정확도와 F1 Score 표로 비교한다. 혼동 행렬를 그려 모델이 무승부를 얼마나 잘 예측하는지 분석한다.  
 <img width="1389" height="490" alt="체스승률예측1" src="https://github.com/user-attachments/assets/c89aa300-dc2c-4ee9-95e6-fbf908a74e8d" />
 <img width="1340" height="490" alt="체스승률예측2" src="https://github.com/user-attachments/assets/1e381660-e52a-447e-8d1b-819baf888c2a" />
+성능 평가 결과, 다층 퍼셉트론(MLP) 모델이 정확도 75%, F1-Score 0.512로 랜덤 포레스트 모델(정확도 71%, F1-Score 0.493)보다 전반적으로 더 우수한 예측 성능을 보였습니다. 이는 체스 경기 데이터 내의 복잡한 비선형적 관계를 MLP의 은닉층이 효과적으로 학습했음을 시사합니다.
 
 [최종 모델 성능 비교 결과 표]
 
-Random Forest-> Accuracy: 0.71, F1-Score: 0.49395
+| Model | Accuracy | F1-Score |
+| :--- | :---: | :---: |
+| **Random Forest** | 0.71 | 0.49395 |
+| **MLP (Deep Learning)** | **0.75** | **0.51265** |
 
-MLP (Deep Learning)-> Accuracy: 0.75, F1-Score: 0.51265
+
 V. 관련 출처
 - Kaggle 체스 데이터셋 (https://www.kaggle.com/datasets/datasnaek/chess)
 
