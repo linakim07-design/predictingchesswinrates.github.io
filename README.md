@@ -20,8 +20,8 @@ III. 분석 및 진행 방법
 IV. 평가 및 분석
 - 탐색적 데이터 분석: '레이팅 차이에 따른 승률 변화'를 산점도와 추세선으로 시각화하여 레이팅이 승패에 미치는 영향을 확인한다. 또한 가장 승률이 높은 오프닝 순위를 막대그래프로 시각화한다.  
 - 성능 평가: 랜덤 포레스트와 MLP 모델의 예측 성능을 정확도와 F1 Score 표로 비교한다. 혼동 행렬를 그려 모델이 무승부를 얼마나 잘 예측하는지 분석한다.  
-![체스승률예측1]([체스승률예측1.png](https://github.com/linakim07-design/predictingchesswinrates.github.io/blob/main/%EC%B2%B4%EC%8A%A4%EC%8A%B9%EB%A5%A0%EC%98%88%EC%B8%A11.png?raw=true))
-![체스승률예측2](체스승률예측2.png)
+![체스승률예측1](https://github.com/linakim07-design/predictingchesswinrates.github.io/blob/main/%EC%B2%B4%EC%8A%A4%EC%8A%B9%EB%A5%A0%EC%98%88%EC%B8%A11.png?raw=true))
+![체스승률예측2](https://github.com/linakim07-design/predictingchesswinrates.github.io/blob/main/%EC%B2%B4%EC%8A%A4%EC%8A%B9%EB%A5%A0%EC%98%88%EC%B8%A12.png?raw=true))
 성능 평가 결과, 다층 퍼셉트론(MLP) 모델이 정확도 75%, F1-Score 0.512로 랜덤 포레스트 모델(정확도 71%, F1-Score 0.493)보다 전반적으로 더 우수한 예측 성능을 보였습니다. 이는 체스 경기 데이터 내의 복잡한 비선형적 관계를 MLP의 은닉층이 효과적으로 학습했음을 시사합니다.
 
 [최종 모델 성능 비교 결과 표]
