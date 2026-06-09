@@ -92,12 +92,12 @@ V. 한계점 발견: 데이터 불균형(Data Imbalance) 문제
 
 
 
-V. 관련 출처
+VI. 관련 출처
 - Kaggle 체스 데이터셋 (https://www.kaggle.com/datasets/datasnaek/chess)
 
 - Scikit-learn 홈페이지 (https://scikit-learn.org/stable/)
 
-VI. 결론 
+VII. 결론 
 - 프로젝트 결과, 체스 승률 예측에서 가장 중요한 피처는 예상대로 플레이어 간의 레이팅 차이이다. 하지만 특정 오프닝을 사용했을 때 레이팅의 불리함을 일부 극복하는 경향성을 데이터로 확인할 수 있었다.
 -모델이 '무승부' 클래스의 패턴을 성공적으로 학습하여, 기존에 0건이었던 무승부 정답 횟수가 유의미하게 증가했다.
 
