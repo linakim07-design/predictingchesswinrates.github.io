@@ -30,6 +30,15 @@ IV. 평가 및 분석
 | **Random Forest** | 0.71 | 0.49395 |
 | **MLP (Deep Learning)** | **0.75** | **0.51265** |
 
+<img width="842" height="665" alt="스크린샷 2026-06-09 122657" src="https://github.com/user-attachments/assets/1312c56d-f32f-4baf-ab30-51bf2db0d7ce" />
+<img width="551" height="106" alt="스크린샷 2026-06-09 122933" src="https://github.com/user-attachments/assets/6a5a7425-6b1a-459a-b43d-a78410edda3e" />
+<img width="980" height="656" alt="스크린샷 2026-06-09 122925" src="https://github.com/user-attachments/assets/ee2cdb59-5a77-45f9-8eb6-a08c7c90d5cb" />
+<img width="932" height="627" alt="스크린샷 2026-06-09 122903" src="https://github.com/user-attachments/assets/70259ac3-d8a6-4750-8e50-b5f3e10ce482" />
+<img width="676" height="676" alt="스크린샷 2026-06-09 122847" src="https://github.com/user-attachments/assets/18450e58-6f20-4004-b606-4795cf5dc832" />
+
+
+
+
 
 V. 관련 출처
 - Kaggle 체스 데이터셋 (https://www.kaggle.com/datasets/datasnaek/chess)
