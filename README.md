@@ -38,6 +38,11 @@ IV. 평가 및 분석
 
 <img width="1305" height="547" alt="다운로드" src="https://github.com/user-attachments/assets/8c0a5e0f-e14e-41b1-9062-c97ad088a41d" />
 
+프로그램 코드
+
+<img width="1315" height="586" alt="스크린샷 2026-06-09 오후 12 26 32" src="https://github.com/user-attachments/assets/edd99882-1437-4a38-a945-eefb28e00bd7" />
+<img width="1225" height="466" alt="스크린샷 2026-06-09 오후 12 27 00" src="https://github.com/user-attachments/assets/339b0b59-b3b2-4d6d-bfb0-9fdb6999cb9e" />
+
 
 * **초록색 (white):** 백(선공) 승리
 * **주황색 (black):** 흑(후공) 승리
