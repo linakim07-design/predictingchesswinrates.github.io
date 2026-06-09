@@ -23,6 +23,9 @@ IV. 평가 및 분석
 ![체스승률예측2](https://github.com/linakim07-design/predictingchesswinrates.github.io/blob/main/%EC%B2%B4%EC%8A%A4%EC%8A%B9%EB%A5%A0%EC%98%88%EC%B8%A12.png?raw=true)
 성능 평가 결과, 다층 퍼셉트론(MLP) 모델이 정확도 75%, F1-Score 0.512로 랜덤 포레스트 모델(정확도 71%, F1-Score 0.493)보다 전반적으로 더 우수한 예측 성능을 보였다. 이는 체스 경기 데이터 내의 복잡한 비선형적 관계를 MLP의 은닉층이 효과적으로 학습했음을 시사한다.
 
+<img width="1440" height="900" alt="스크린샷 2026-06-09 오후 1 04 19" src="https://github.com/user-attachments/assets/21cc9769-efa6-4aa5-935a-7c638a1f1834" />
+
+
 [최종 모델 성능 비교 결과 표]
 
 | Model | Accuracy | F1-Score |
@@ -30,9 +33,10 @@ IV. 평가 및 분석
 | **Random Forest** | 0.71 | 0.49395 |
 | **MLP (Deep Learning)** | **0.75** | **0.51265** |
 
+---
+
  체스 오프닝별 승률 탑 10과 승률 데이터 시각화
 
----
 
 데이터 시각화 결과
 
