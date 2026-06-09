@@ -42,4 +42,3 @@ VI. 결론
 - 무승부클래스는 전체 데이터에서 차지하는 비율이 적어 예측 정확도가 상대적으로 낮았는데, 이는 향후 데이터 불균형 문제를 해결하여 개선할 수 있을 것이다.
 
 
-<img width="1305" height="547" alt="다운로드" src="https://github.com/user-attachments/assets/82884e9e-b360-4878-ba91-233c23baf1f9" />
