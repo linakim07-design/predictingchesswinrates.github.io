@@ -30,11 +30,11 @@ IV. 평가 및 분석
 | **Random Forest** | 0.71 | 0.49395 |
 | **MLP (Deep Learning)** | **0.75** | **0.51265** |
 
- 체스 오프닝 탑 10과 승률 데이터 시각화
+ 체스 오프닝별 승률 탑 10과 승률 데이터 시각화
 
 ---
 
-## 📈 데이터 시각화 결과
+데이터 시각화 결과
 
 <img width="1305" height="547" alt="다운로드" src="https://github.com/user-attachments/assets/8c0a5e0f-e14e-41b1-9062-c97ad088a41d" />
 
